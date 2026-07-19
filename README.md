@@ -4,7 +4,7 @@ Este é um organizador automático de diretórios de alto desempenho, desenvolvi
 
 ---
 
-## 🎮 O Projeto
+## O Projeto 
 
 Manter pastas limpas e organizadas manualmente consome tempo e esforço. Com esta ferramenta, você automatiza esse processo instantaneamente:
 - O sistema recebe o caminho absoluto ou relativo de uma pasta como parâmetro no terminal.
@@ -21,7 +21,7 @@ Manter pastas limpas e organizadas manualmente consome tempo e esforço. Com est
 *   **Segurança Física:** Nunca excluir arquivos do usuário.
 *   **Relatório Detalhado:** Exibir um log final de sucesso contendo a contagem total de arquivos movidos e a de erros identificados.
 
-### 🚫 O que o sistema NÃO DEVE fazer:
+### 🚫 O que o sistema NÃO FAZ:
 *   Não organiza arquivos de forma recursiva (ele mexe apenas nos arquivos soltos da pasta principal).
 *   Não requer nenhuma interface gráfica (HTML/CSS) ou conexão com a web.
 
@@ -113,7 +113,7 @@ Os arquivos são movidos para as seguintes subpastas de acordo com a extensão o
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 Certifique-se de ter instalado:
